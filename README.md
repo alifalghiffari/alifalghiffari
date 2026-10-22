@@ -1,68 +1,40 @@
 <div align="center">
+  
+# Alif Al Ghiffari (Agip)
+### ✦ UI/UX Engineer & Full-Stack Developer ✦
 
-# `alif.alghiffari();`
-
-```text
-  _    _  _____ /_   _    _  _____ 
- | |  | ||_   _|/ / | |  | ||_   _|
- | |  | |  | | / /  | |  | |  | |  
- | |__| |  | |/ /   | |__| |  | |  
-  \____/  _|_/_/     \____/  _|_|  
-```
-
-**`System Status: Online`** | **`Location: Banda Aceh`** | **`Focus: UI/UX & Full-Stack`**
-
+*Crafting logical architectures and frictionless user experiences.*
+    
 <br>
 
-<i>"I don't just write code; I design the experience. Merging logic with aesthetics."</i>
+[![Portfolio](https://img.shields.io/badge/-Portfolio_GL-000000?style=flat&logo=vercel&logoColor=white)](https://alifalghiffari.vercel.app/)
+[![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/ghiip)
+[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/aghiffari)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alif-alghiffari)
 
-<br>
+<br><br>
 
-<a href="https://alifalghiffari.vercel.app/" target="_blank">`<Portfolio_Web_GL>`</a> &nbsp;&middot;&nbsp; 
-<a href="https://dribbble.com/ghiip" target="_blank">`<Dribbble_Shots>`</a> &nbsp;&middot;&nbsp; 
-<a href="https://www.behance.net/aghiffari" target="_blank">`<Behance_Case_Studies>`</a> &nbsp;&middot;&nbsp; 
-<a href="https://www.linkedin.com/in/alif-alghiffari" target="_blank">`<LinkedIn_Network>`</a>
+### 🛠 Tech & Design Arsenal
+    
+| Visual & Prototyping | Frontend Engineering | Backend & Systems |
+| :---: | :---: | :---: |
+| Figma, Miro, Design Systems | React, Next.js, Three.js, Tailwind | Golang, REST APIs, Microservices |
+| *Focus: Cognitive Load Reduction* | *Focus: Interactive & Pixel-Perfect* | *Focus: Scalable Architecture* |
 
----
+<br><br>
 
-</div>
+### 📌 Highlighted Projects
 
-<br>
+| Project | Role | Description |
+| :--- | :--- | :--- |
+| **Bayeu POS** | Lead UI/UX | Multi-tenant Point of Sale system for F&B. End-to-end execution from PRD to high-fidelity Figma prototyping. |
+| **Jeda Waktu** | Frontend | Productivity app designed to tackle cognitive overload. Clean UI execution using React & Tailwind. |
+| **[Interactive Portfolio](https://alifalghiffari.vercel.app/)** | Creative Dev | Immersive 3D web experience built pushing browser limits with Next.js & Three.js. |
 
-### ⚡ `Runtime_Environment`
-```json
-{
-  "design_stack": ["Figma", "Miro", "Design Systems", "Prototyping"],
-  "frontend_stack": ["React", "Next.js", "Tailwind CSS", "Three.js"],
-  "backend_stack": ["Golang", "REST APIs", "System Architecture"],
-  "current_obsession": "Optimizing cognitive load through minimal interfaces"
-}
-```
+<br><br>
 
-<br>
+### 📊 System Activity
 
-### 📂 `Active_Projects`
+<img src="https://github-readme-stats.vercel.app/api?username=alifalghiffari&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&show_icons=true&include_all_commits=true" alt="Agip's Stats" />
 
-> **`[01] Bayeu_POS`**
-> Multi-tenant Point of Sale system specifically architected for F&B. Handling the complete lifecycle from PRD generation to high-fidelity Figma prototyping and design system formulation.
-
-> **`[02] Jeda_Waktu`**
-> A productivity application tackling cognitive overload. UI execution utilizing React, Tailwind CSS, and Lucide icons.
-
-> **`[03] Interactive_Portfolio`**
-> Pushing browser limits. A personal showcase built with Next.js and Three.js for a seamless 3D web experience.
-
-<br>
-
-### 📈 `Analytics_&_Contributions`
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alifalghiffari&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&hide_title=true" alt="Agip's Activity Graph" />
-</p>
-
-<div align="center">
-
-```text
-[EOF]
-```
 </div>
