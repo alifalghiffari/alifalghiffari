@@ -1,6 +1,6 @@
 <div align="center">
   
-# Alif Al Ghiffari (Agip)
+# Alif Alghiffari (Agip)
 ### ✦ UI/UX Engineer & Full-Stack Developer ✦
 
 *Crafting logical architectures and frictionless user experiences.*
